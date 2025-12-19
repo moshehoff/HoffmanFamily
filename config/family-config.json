@@ -1,0 +1,49 @@
+{
+  "familyName": "Hoffman Family History",
+  "pageTitleSuffix": " | משפחה",
+  "baseUrl": "moshehoff.github.io/HoffmanFamily",
+  "locale": "en-US",
+  "analytics": {
+    "provider": "plausible"
+  },
+  "theme": {
+    "colors": {
+      "secondary": "#284b63",
+      "tertiary": "#84a59d",
+      "light": "#faf8f8",
+      "lightgray": "#e5e5e5",
+      "gray": "#b8b8b8",
+      "darkgray": "#4e4e4e",
+      "dark": "#2b2b2b",
+      "highlight": "rgba(143, 159, 169, 0.15)",
+      "textHighlight": "#fff23688"
+    },
+    "typography": {
+      "header": "Schibsted Grotesk",
+      "body": "Source Sans Pro",
+      "code": "Roboto Mono"
+    }
+  },
+  "place_mappings": {
+    "Subiaco, Perth, Western Australia, Australia": "Subiaco,_Western_Australia",
+    "Perth, Western Australia, Australia": "Perth,_Western_Australia",
+    "Perth, WA, Australia": "Perth,_Western_Australia",
+    "Perth, Australia": "Perth,_Western_Australia",
+    "Perth": "Perth,_Western_Australia",
+    "Sydney, NSW, Australia": "Sydney",
+    "Sydney, New South Wales, Australia": "Sydney",
+    "Brisbane, Queensland, Australia": "Brisbane",
+    "Rehovot, Israel": "Rehovot",
+    "Rehovot, Center District, Israel": "Rehovot",
+    "Jerusalem": "Jerusalem",
+    "Wien, Austria": "Vienna",
+    "Vienna, Vienna, Austria": "Vienna",
+    "Nikolsburg (Mikulov), Moravia, Czechoslovakia": "Mikulov",
+    "Blackburn, Lancashire, England (United Kingdom)": "Blackburn,_Lancashire",
+    "Pitten or Schwarzau am Steinfeld, near Neunkirchen, Lower Austria, Austria": "Neunkirchen,_Lower_Austria",
+    "Savran, Podolia, Odessa oblast, Ukraine": "Savran,_Ukraine",
+    "Bershad, Ukraine": "Bershad",
+    "Hamedan, Iran, Islamic Republic of": "Hamadan"
+  }
+}
+
