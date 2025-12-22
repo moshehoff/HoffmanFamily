@@ -713,6 +713,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I34845671537@ INDI
 1 NAME Nelli /Granovskaya/
+1 _PRIVATE Y
 2 NICK Granovsky
 1 SEX F
 1 BIRT
@@ -744,6 +745,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-16745233
 0 @I34845671794@ INDI
 1 NAME Yefim (Fima) /Solgan/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE circa 1938
@@ -797,6 +799,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-16745233
 0 @I39965206@ INDI
 1 NAME Miriam /Hoffman/
+1 _PRIVATE Y
 1 SEX F
 1 NOTE Geni profile key: profile-profile-39965206
 1 NOTE Geni info:
@@ -808,6 +811,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I39965122@ INDI
 1 NAME Trevor David /Hoffman/
+1 _PRIVATE Y
 1 SEX M
 1 NOTE Geni profile key: profile-profile-39965122
 1 NOTE Geni info:
@@ -818,6 +822,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I39965270@ INDI
 1 NAME Judith /Hoffman/
+1 _PRIVATE Y
 1 SEX F
 1 NOTE Geni profile key: profile-profile-39965270
 1 NOTE Geni info:
@@ -838,6 +843,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I38516763@ INDI
 1 NAME Edward Denis אליהו /Hoffman/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE December 27, 1944
@@ -855,6 +861,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-3443484
 0 @I11052359@ INDI
 1 NAME Dr PETER פנחס /HOFFMAN/
+1 _PRIVATE Y
 2 NICK Separate nicknames with a comma
 1 SEX M
 1 BIRT
@@ -877,6 +884,7 @@
 1 NOTE Account type: basic
 0 @I38516790@ INDI
 1 NAME Dianne Helen דינה /Kemp/ /Hoffman/
+1 _PRIVATE Y
 1 SEX F
 1 BIRT
 2 DATE September 6, 1948
@@ -912,6 +920,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-3443484
 0 @I7293850@ INDI
 1 NAME Ronald Harris /Hoffman/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE May 26, 1948
@@ -931,6 +940,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-837908
 0 @I7293714@ INDI
 1 NAME Ruth Anne /Glasser/ /Hoffman/
+1 _PRIVATE Y
 1 SEX F
 1 BIRT
 2 DATE October 4, 1950
@@ -961,6 +971,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-837908
 0 @I45569141@ INDI
 1 NAME Eveonne /Nisbet/ /Breazeale/
+1 _PRIVATE Y
 1 SEX F
 1 BIRT
 2 DATE 1944
@@ -975,6 +986,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I39964744@ INDI
 1 NAME Sandra /Kerr/ /Breazeale/
+1 _PRIVATE Y
 2 NICK Sandi
 1 SEX F
 1 BIRT
@@ -1011,6 +1023,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I38739984@ INDI
 1 NAME Dan /Hoffman/
+1 _PRIVATE Y
 1 SEX M
 1 NOTE Geni profile key: profile-profile-38739984
 1 NOTE Geni info:
@@ -1021,6 +1034,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I38740076@ INDI
 1 NAME Toby Rachel /Freund/ /Hoffman/
+1 _PRIVATE Y
 1 SEX F
 1 RESI
 2 PLAC Perth, Western Australia, Australia
@@ -1035,6 +1049,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I34633857222@ INDI
 1 NAME David /Hoffman/
+1 _PRIVATE Y
 1 SEX M
 1 NOTE Geni profile key: profile-profile-34633857222
 1 NOTE Geni info:
@@ -1055,6 +1070,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I34837400716@ INDI
 1 NAME Yakov /Traktovenko/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE 1939
@@ -1070,6 +1086,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-23176350
 0 @I34834841076@ INDI
 1 NAME Alla /Traktovenko/
+1 _PRIVATE Y
 1 SEX F
 1 BIRT
 2 DATE March 29, 1946
@@ -1101,6 +1118,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-16745233
 0 @I125886870@ INDI
 1 NAME Paul /Breckler/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE 1954
@@ -1130,6 +1148,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-16745233
 0 @I7850911@ INDI
 1 NAME Phillip /Dzienciol/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE August 8, 1942
@@ -1148,6 +1167,7 @@
 1 NOTE Account type: basic
 0 @I7850907@ INDI
 1 NAME Simon /Dzienciol/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE September 3, 1945
@@ -1164,6 +1184,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-402804
 0 @I34719216477@ INDI
 1 NAME Bray /Dzienciol/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE October 10, 1949
@@ -1219,6 +1240,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-16745233
 0 @I34832966579@ INDI
 1 NAME Jack Andrew /Adam/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE August 6, 1948
@@ -1255,6 +1277,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-16745233
 0 @I34799658652@ INDI
 1 NAME Paul /Crain/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE May 6, 1949
@@ -1268,6 +1291,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-18384344
 0 @I34799658658@ INDI
 1 NAME Jenny /Crain/
+1 _PRIVATE Y
 1 SEX F
 1 BIRT
 2 DATE August 12, 1955
@@ -1281,6 +1305,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-18384344
 0 @I84710991@ INDI
 1 NAME Myron J. /Crain/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE September 20, 1946
@@ -1328,6 +1353,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I100527572@ INDI
 1 NAME Jenny /Parkinson/
+1 _PRIVATE Y
 1 SEX F
 1 NOTE Geni profile key: profile-profile-100527572
 1 NOTE Geni info:
@@ -1338,6 +1364,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I40156750@ INDI
 1 NAME Lois /Rasmussen/
+1 _PRIVATE Y
 1 SEX F
 1 NOTE Geni profile key: profile-profile-40156750
 1 NOTE Geni info:
@@ -1348,6 +1375,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I40156505@ INDI
 1 NAME Brigid /Fitzgerald/
+1 _PRIVATE Y
 1 SEX F
 1 NOTE Geni profile key: profile-profile-40156505
 1 NOTE Geni info:
@@ -1358,6 +1386,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I38517487@ INDI
 1 NAME Varda ורדה /Hoffman/ /Nikfard/
+1 _PRIVATE Y
 2 NICK Flora
 2 NICK Parvin
 1 SEX F
@@ -1373,6 +1402,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-3443484
 0 @I38739432@ INDI
 1 NAME Derek /Kemp/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 PLAC Lancashire, England, United Kingdom
@@ -1387,6 +1417,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I63012874@ INDI
 1 NAME Paula /Hoffman/ /Shepherd/
+1 _PRIVATE Y
 1 SEX F
 1 BIRT
 2 DATE August 7, 1962
@@ -1399,6 +1430,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-5295536
 0 @I7293880@ INDI
 1 NAME Margaret /Hoffman/ /Reynolds/
+1 _PRIVATE Y
 1 SEX F
 1 BIRT
 2 DATE circa 1950
@@ -1411,6 +1443,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-837908
 0 @I7293962@ INDI
 1 NAME David /Glasser/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE July 7, 1945
@@ -1423,6 +1456,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-837908
 0 @I45569115@ INDI
 1 NAME Michael JOHN /Nisbet/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE November 13, 1941
@@ -1443,6 +1477,7 @@
 1 NOTE Account type: basic
 0 @I40157732@ INDI
 1 NAME Michael /Nisbitt/
+1 _PRIVATE Y
 1 SEX M
 1 NOTE Geni profile key: profile-profile-40157732
 1 NOTE Geni info:
@@ -1455,6 +1490,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I40159158@ INDI
 1 NAME Henry /Wilson/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE 1939
@@ -1467,6 +1503,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I40159359@ INDI
 1 NAME Peter /Kerr/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE March 26, 1944
@@ -1482,6 +1519,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I40159550@ INDI
 1 NAME Ketura /Hoffman/ /Monk/
+1 _PRIVATE Y
 1 SEX F
 1 NOTE Geni profile key: profile-profile-40159550
 1 NOTE Geni info:
@@ -1492,6 +1530,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I40160177@ INDI
 1 NAME Jerome Michael יעקב /Freund/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 PLAC Syracuse, Onondaga County, New York, United States
@@ -1509,6 +1548,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-1208372
 0 @I34633857141@ INDI
 1 NAME Eva /Hoffman/ /Segelov/
+1 _PRIVATE Y
 1 SEX F
 1 NOTE Geni profile key: profile-profile-34633857141
 1 NOTE Geni info:
@@ -1519,6 +1559,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-605175
 0 @I34837375170@ INDI
 1 NAME Lev /Igoudin/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE April 18, 1946
@@ -1532,6 +1573,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-23176350
 0 @I34837377055@ INDI
 1 NAME Leonid /Fisher/
+1 _PRIVATE Y
 1 SEX M
 1 BIRT
 2 DATE 1946
@@ -1549,6 +1591,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-23176350
 0 @I34832479387@ INDI
 1 NAME Maria (Gloria) /Breckler/
+1 _PRIVATE Y
 1 SEX F
 1 BIRT
 2 DATE 1960
@@ -1562,6 +1605,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-16745233
 0 @I34827822672@ INDI
 1 NAME Shoshana /Dzienciol/ /Kelemen/
+1 _PRIVATE Y
 1 SEX F
 1 RESI
 2 PLAC Melbourne, Victoria, AU
@@ -1575,6 +1619,7 @@
 1 NOTE Account type: basic
 0 @I14135122@ INDI
 1 NAME Rachel /Light/ /Lichtenstein/
+1 _PRIVATE Y
 1 SEX F
 1 BIRT
 2 DATE September 29, 1943
@@ -1590,6 +1635,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-402804
 0 @I15375632@ INDI
 1 NAME Esther /Benhamou/ /Ovadia/
+1 _PRIVATE Y
 1 SEX F
 1 BIRT
 2 DATE March 1
@@ -1605,6 +1651,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-900293
 0 @I7895007@ INDI
 1 NAME Eva Sylvia /Dzienciol/ /Zajac/
+1 _PRIVATE Y
 2 NICK Ewa Sylwia Zajac
 1 SEX F
 1 BIRT
@@ -1621,6 +1668,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-402804
 0 @I34835351953@ INDI
 1 NAME Cynthia May /Adam/ /Perry/
+1 _PRIVATE Y
 1 SEX F
 1 BIRT
 2 DATE October 13, 1953
@@ -1633,6 +1681,7 @@
 1 NOTE Created by: https://www.geni.com/api/user-16745233
 0 @I84710924@ INDI
 1 NAME Marguerite Emily (Margie) /Crain/ /Altmann/
+1 _PRIVATE Y
 1 SEX F
 1 BIRT
 2 DATE September 21, 1947
@@ -2103,11 +2152,13 @@
 0 @I34845671537@ INDI
 1 FAMC @F124440090@
 1 FAMS @F124440179@
+1 _PRIVATE Y
 0 @I34845671760@ INDI
 1 FAMS @F124440243@
 0 @I34845671794@ INDI
 1 FAMS @F124440279@
 1 FAMC @F124440243@
+1 _PRIVATE Y
 0 @I34845671648@ INDI
 1 FAMS @F124440206@
 0 @I34845671711@ INDI
@@ -2116,24 +2167,30 @@
 1 FAMS @F13655899@
 0 @I39965206@ INDI
 1 FAMC @F13655899@
+1 _PRIVATE Y
 0 @I39965122@ INDI
 1 FAMS @F13721300@
 1 FAMS @F32834861@
 1 FAMS @F13721612@
 1 FAMC @F13655899@
+1 _PRIVATE Y
 0 @I39965270@ INDI
 1 FAMC @F13655899@
+1 _PRIVATE Y
 0 @I38516664@ INDI
 1 FAMS @F13161432@
 1 FAMC @F13161280@
 0 @I38516763@ INDI
 1 FAMC @F13161432@
+1 _PRIVATE Y
 0 @I11052359@ INDI
 1 FAMS @F13161723@
 1 FAMC @F13161432@
+1 _PRIVATE Y
 0 @I38516790@ INDI
 1 FAMS @F13237018@
 1 FAMC @F13161432@
+1 _PRIVATE Y
 0 @I7293708@ INDI
 1 FAMS @F69008@
 1 FAMC @F66999@
@@ -2141,9 +2198,11 @@
 1 FAMS @F69152@
 1 FAMC @F69008@
 1 FAMS @F21371852@
+1 _PRIVATE Y
 0 @I7293714@ INDI
 1 FAMC @F69008@
 1 FAMS @F21371596@
+1 _PRIVATE Y
 0 @I61276980@ INDI
 1 FAMS @F20778736@
 1 FAMC @F27248557@
@@ -2151,49 +2210,60 @@
 1 FAMC @F20778736@
 1 FAMS @F15552668@
 1 FAMS @F13720844@
+1 _PRIVATE Y
 0 @I39964744@ INDI
 1 FAMC @F20778736@
 1 FAMS @F13722302@
 1 FAMS @F13722347@
+1 _PRIVATE Y
 0 @I38739935@ INDI
 1 FAMS @F13236990@
 1 FAMC @F42051576@
 0 @I38739984@ INDI
 1 FAMS @F13722771@
 1 FAMC @F13236990@
+1 _PRIVATE Y
 0 @I38740076@ INDI
 1 FAMC @F13236990@
 1 FAMS @F13721988@
+1 _PRIVATE Y
 0 @I34633857222@ INDI
 1 FAMS @F47925911@
 1 FAMC @F13236990@
+1 _PRIVATE Y
 0 @I34834841177@ INDI
 1 FAMS @F120721037@
 0 @I34837400716@ INDI
 1 FAMC @F120721037@
+1 _PRIVATE Y
 0 @I34834841076@ INDI
 1 FAMS @F121592269@
 1 FAMC @F120721037@
 1 FAMS @F120951942@
+1 _PRIVATE Y
 0 @I34831672180@ INDI
 1 FAMS @F119625359@
 1 FAMC @F120362679@
 0 @I125886870@ INDI
 1 FAMC @F119625359@
 1 FAMS @F119907275@
+1 _PRIVATE Y
 0 @I3147725@ INDI
 1 FAMC @F333251@
 1 FAMS @F332889@
 0 @I7850911@ INDI
 1 FAMC @F332889@
 1 FAMS @F5258781@
+1 _PRIVATE Y
 0 @I7850907@ INDI
 1 FAMC @F332889@
 1 FAMS @F5259516@
 1 FAMS @F4834144@
+1 _PRIVATE Y
 0 @I34719216477@ INDI
 1 FAMC @F332889@
 1 FAMS @F333664@
+1 _PRIVATE Y
 0 @I34831931303@ INDI
 1 FAMS @F119715015@
 1 FAMC @F119986045@
@@ -2204,74 +2274,102 @@
 1 FAMS @F120910158@
 1 FAMC @F119715179@
 1 FAMS @F120898098@
+1 _PRIVATE Y
 0 @I34799658586@ INDI
 1 FAMS @F108728812@
 0 @I34799658652@ INDI
 1 FAMC @F108728812@
+1 _PRIVATE Y
 0 @I34799658658@ INDI
 1 FAMC @F108728812@
+1 _PRIVATE Y
 0 @I84710991@ INDI
 1 FAMC @F108728812@
 1 FAMS @F28803399@
+1 _PRIVATE Y
 0 @I13743390293@ INDI
 1 FAMS @F42333256@
 0 @I100527572@ INDI
 1 FAMS @F32834861@
+1 _PRIVATE Y
 0 @I40156750@ INDI
 1 FAMS @F13721300@
+1 _PRIVATE Y
 0 @I40156505@ INDI
 1 FAMS @F13721612@
+1 _PRIVATE Y
 0 @I38517487@ INDI
 1 FAMC @F13652154@
 1 FAMS @F13161723@
+1 _PRIVATE Y
 0 @I38739432@ INDI
 1 FAMS @F13237018@
+1 _PRIVATE Y
 0 @I63012874@ INDI
 1 FAMS @F21371852@
+1 _PRIVATE Y
 0 @I7293880@ INDI
 1 FAMS @F69152@
 1 FAMC @F88568437@
+1 _PRIVATE Y
 0 @I7293962@ INDI
 1 FAMS @F21371596@
+1 _PRIVATE Y
 0 @I45569115@ INDI
 1 FAMC @F15552850@
 1 FAMS @F15552668@
+1 _PRIVATE Y
 0 @I40157732@ INDI
 1 FAMS @F13720844@
+1 _PRIVATE Y
 0 @I40159158@ INDI
 1 FAMS @F13722347@
+1 _PRIVATE Y
 0 @I40159359@ INDI
 1 FAMS @F13722302@
 1 FAMS @F77210335@
+1 _PRIVATE Y
 0 @I40159550@ INDI
 1 FAMS @F13722771@
+1 _PRIVATE Y
 0 @I40160177@ INDI
 1 FAMC @F118407810@
 1 FAMS @F13721988@
+1 _PRIVATE Y
 0 @I34633857141@ INDI
 1 FAMC @F47925882@
 1 FAMS @F47925911@
+1 _PRIVATE Y
 0 @I34837375170@ INDI
 1 FAMS @F120951942@
 1 FAMS @F121597458@
+1 _PRIVATE Y
 0 @I34837377055@ INDI
 1 FAMS @F121592269@
+1 _PRIVATE Y
 0 @I34832479387@ INDI
 1 FAMS @F119907275@
+1 _PRIVATE Y
 0 @I34827822672@ INDI
 1 FAMS @F5258781@
 1 FAMC @F5283112@
+1 _PRIVATE Y
 0 @I14135122@ INDI
 1 FAMC @F100015669@
 1 FAMS @F4834144@
+1 _PRIVATE Y
 0 @I15375632@ INDI
 1 FAMS @F5259516@
+1 _PRIVATE Y
 0 @I7895007@ INDI
 1 FAMC @F80938861@
 1 FAMS @F333664@
+1 _PRIVATE Y
 0 @I34835351953@ INDI
 1 FAMS @F120898098@
+1 _PRIVATE Y
 0 @I84710924@ INDI
 1 FAMC @F28803242@
 1 FAMS @F28803399@
 0 TRLR
+1 _PRIVATE Y
