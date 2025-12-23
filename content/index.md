@@ -24,16 +24,16 @@ your elders, and they will explain to you."
  [About](pages/about) - About this website
 
 #### The Hoffmans
-* [The Russain Period](/pages/founders) - The Founders’ Generation
+* [The Russian Period](/pages/founders) - The Founders’ Generation
 * [The Australian Period](pages/hoffman_history)  - The Story of the Hoffman Family in Australia
 * [Are you sure the name is Hoffman and not Hochman?](pages/the_names) 
+* [All Hoffmans' Images](pages/family-hochman-images)
+* [All Hochmans' profiles](pages/family-hochman) 
 
 #### The Zitsermans
-* [Zitsterman Family Opus](zitserman.md)
-
-#### Family Trees
-* [Aron Zits](pages/family-aron-zits) - [Images](pages/family-aron-zits-images)
-* [Elizapan](pages/family-elizapan) - [Images](pages/family-elizapan-images)
+* [Zitserman Family Opus](zitserman.md)
+* [All Zitsermans' Images](pages/family-zitserman-images)
+* [All Zitsermans' Profiles](pages/family-zitserman)
 
 #### General pages
 * [Profiles with Biographies](pages/profiles-of-interest) - Profiles with extended chapters
