@@ -31,6 +31,10 @@ your elders, and they will explain to you."
 #### The Zitsermans
 * [Zitsterman Family Opus](zitserman.md)
 
+#### Family Trees
+* [Aron Zits](pages/family-aron-zits) - [Images](pages/family-aron-zits-images)
+* [Elizapan](pages/family-elizapan) - [Images](pages/family-elizapan-images)
+
 #### General pages
 * [Profiles with Biographies](pages/profiles-of-interest) - Profiles with extended chapters
 * [Profiles with Galleries](pages/profiles-with-gallery) - Profiles with images in their gallery
