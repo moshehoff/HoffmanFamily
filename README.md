@@ -12,7 +12,8 @@ Visit the live site at: https://moshehoff.github.io/HoffmanFamily/
 HoffmanFamily/
 ├── platform/                      # Family History Platform (submodule)
 ├── data/
-│   ├── tree.ged                   # Family GEDCOM file
+│   ├── hochman.ged                # Hochman family GEDCOM file
+│   ├── zitserman.ged             # Zitserman family GEDCOM file
 │   └── place_mappings.json        # Place to Wikipedia mappings
 ├── bios/                          # Extended biographies by person ID
 │   ├── I11032861/
@@ -30,11 +31,12 @@ HoffmanFamily/
 │       ├── about.md
 │       ├── preface.md
 │       └── founders.md
+├── public/                        # Pre-built site (generated, committed for deployment)
 ├── config/
 │   └── family-config.json         # Site configuration
 └── .github/
     └── workflows/
-        └── deploy.yml             # GitHub Actions deployment
+        └── deploy.yml             # GitHub Actions deployment (pre-built only)
 ```
 
 ## 🚀 Building the Site Locally
@@ -55,7 +57,11 @@ cd HoffmanFamily
 
 2. **Generate profiles**:
 ```bash
-python platform/scripts/doit.py data/tree.ged
+python platform/scripts/doit.py \
+  --bios-dir bios \
+  --src-content-dir content \
+  --output platform/site/content/profiles \
+  data/hochman.ged data/zitserman.ged
 ```
 
 3. **Build the site**:
@@ -63,22 +69,50 @@ python platform/scripts/doit.py data/tree.ged
 cd platform/site
 npm install
 npx quartz build
+cd ../..
 ```
 
 4. **Preview locally**:
 ```bash
+cd platform/site
 npx quartz serve
 ```
 
 Visit http://localhost:8080
 
+## 🚀 Deploying to GitHub Pages
+
+The site uses a pre-built deployment workflow (like FamilyHistory). To deploy:
+
+1. **Build the site locally** (see "Building the Site Locally" above)
+
+2. **Copy built files to main repo**:
+   ```bash
+   # On Windows PowerShell:
+   Copy-Item -Recurse platform/site/public public
+   
+   # On Linux/Mac:
+   cp -r platform/site/public ./public
+   ```
+
+3. **Commit and push**:
+   ```bash
+   git add -f public/
+   git commit -m "Deploy: update pre-built site"
+   git push origin main
+   ```
+
+The GitHub Actions workflow will automatically deploy when `public/` changes.
+
+**Note:** Make sure GitHub Pages is configured to use "GitHub Actions" as the source (Settings → Pages).
+
 ## 📝 Making Changes
 
 ### Updating Family Data
 
-1. Edit `data/tree.ged` in your genealogy software
-2. Export and replace `data/tree.ged`
-3. Rebuild: `python platform/scripts/doit.py data/tree.ged`
+1. Edit GEDCOM files (`data/hochman.ged` and/or `data/zitserman.ged`) in your genealogy software
+2. Export and replace the GEDCOM file(s)
+3. Rebuild: `python platform/scripts/doit.py --bios-dir bios --src-content-dir content --output platform/site/content/profiles data/hochman.ged data/zitserman.ged`
 
 ### Adding Biographies
 
