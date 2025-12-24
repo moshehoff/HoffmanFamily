@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'platform/site/public/**'  # Only trigger when built site changes
+      - 'public/**'  # Only trigger when built site changes
   workflow_dispatch:
 
 permissions:
@@ -32,26 +32,27 @@ jobs:
       
       - name: Verify pre-built site exists
         run: |
-          if [ ! -d "platform/site/public" ]; then
-            echo "❌ ERROR: platform/site/public directory not found!"
+          if [ ! -d "public" ]; then
+            echo "❌ ERROR: public directory not found!"
             echo "Please build the site locally before pushing:"
             echo "  1. Run: python platform/scripts/doit.py --bios-dir bios --src-content-dir content --output platform/site/content/profiles data/hochman.ged data/zitserman.ged"
             echo "  2. Run: cd platform/site && npx quartz build"
-            echo "  3. Run: git add -f platform/site/public/"
-            echo "  4. Commit and push"
+            echo "  3. Copy: cp -r platform/site/public ./public"
+            echo "  4. Run: git add -f public/"
+            echo "  5. Commit and push"
             exit 1
           fi
-          echo "✅ Pre-built site found in platform/site/public/"
+          echo "✅ Pre-built site found in public/"
           echo "Checking if chapters are included..."
-          if [ -f "platform/site/public/static/chapters-index.json" ]; then
+          if [ -f "public/static/chapters-index.json" ]; then
             echo "✅ chapters-index.json found"
           else
             echo "⚠️  WARNING: chapters-index.json not found in pre-built site"
           fi
-          if [ -d "platform/site/public/static/chapters" ]; then
+          if [ -d "public/static/chapters" ]; then
             echo "✅ chapters directory found"
             echo "Chapter files:"
-            find platform/site/public/static/chapters -type f -name "*.md" | head -5
+            find public/static/chapters -type f -name "*.md" | head -5
           else
             echo "⚠️  WARNING: chapters directory not found in pre-built site"
           fi
@@ -59,7 +60,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: platform/site/public
+          path: public
       
       - name: Deploy to GitHub Pages
         id: deployment
