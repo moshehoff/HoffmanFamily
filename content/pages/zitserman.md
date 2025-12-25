@@ -2,7 +2,7 @@
 
 **This paper includes updates as of October 2024.**
 
-This uncommon Jewish family name was my grandmother's maiden name. I have not found its origin in any source, however I learned that in Yiddish a person who sits on a panel or in judgment is a besitser/בעזיצער from the word "zits"/זיץ "to sit". Thus a zitserman/זיצערמאן or as it is sometimes written – zaitserman - must have been a dayan/דיין - a member of a rabbinical court. In European languages constructions using the root words for seats, sitting (and even thronus) such as chairman, assizes, seat of goverment, a sitting, etc, are common.
+This uncommon Jewish family name was my grandmother's maiden name. I have not found its origin in any source, however I learned that in Yiddish a person who sits on a panel or in judgment is a besitser/בעזיצער from the word "zits"/זיץ "to sit". Thus a zitserman/זיצערמאן or as it is sometimes written – zaitserman - must have been a dayan/דיין - a member of a rabbinical court. In European languages constructions using the root words for seats, sitting (and even thronus) such as chairman, assizes, seat of government, a sitting, etc, are common.
 
 ---
 
@@ -26,57 +26,57 @@ Their six children were born in Bershad.
 
 She remained in Russia. She was married to a Zitserman (sic) and had a daughter named Galya. We have no more details of this family.
 
-### 2. Frida (~1887 – 1955)
+### 2. Frida (~1887–1955)
 
 Died in Odessa. Frida married Mocha Pesach of Olgopol. Olgopol was a town near Vinnitsa in the Podolia oblast. After about 1941 Olgopol became part of Transnistria, and was no longer in the Ukraine or the USSR.
 
-They had six children of whom three (a. c. d.) were war widows.
+They had six children, of whom three (Charna, Fanya Feiga, and Bronya Bracha) were war widows.
 
-**a. Charna.** Came out from Odessa as an old lady to Israel and d. in Israel. She married (given name not known) Pesach. He was conscripted and fell in the world war.
+**a. Charna.** Came out from Odessa as an old lady to Israel and died in Israel. She married (given name not known) Pesach. He was conscripted and fell in the world war.
 
-**b. Manya May.** d. in Odessa. She married Boris Granovski. He was a lieutenant, who fell at Stalingrad in 1942. Their daughter was Nelli Granovski, b. 1935. d. in Israel ~2010. 
+**b. Manya May.** Died in Odessa. She married Boris Granovski. He was a lieutenant, who fell at Stalingrad in 1942. Their daughter was Nelli Granovski, b. 1935, died in Israel ~2010. 
 
-**c. Fanya Feiga.** d. in Israel. She married Pesach Zvesdina. Came out from Odessa as an old lady to Israel and d. in Israel. I know nothing of her. 
+**c. Fanya Feiga.** She married Pesach Zvesdina. Came out from Odessa as an old lady to Israel and died there. I know nothing of her. 
 
-**d. Bronya Bracha** b. ~1918 in Olgopol. d. Israel. Came out from Odessa as an old lady to Israel and d. in Israel. Bronya m. Michael Solgan, b. in Olgopol. Michael was a captain (4 pips) in the Red Army. He fell in 1942 (before the battle of Stalingrad). Their son Yefim (Fima) was born in 1938. He was a civil engineer whose interest was in hydraulics. He left Odessa and came to Israel. 
+**d. Bronya Bracha** b. ~1918 in Olgopol. Came out from Odessa as an old lady to Israel and died there. Bronya m. Michael Solgan, b. in Olgopol. Michael was a captain (4 pips) in the Red Army. He fell in 1942 (before the battle of Stalingrad). Their son Yefim (Fima) was born in 1938. He was a civil engineer whose interest was in hydraulics. He left Odessa and came to Israel. 
 
 **e. Arkadi Aaron Pesach** b. ~1917. He was a colonel (polkovnik) in the Red Army who fought as far as Berlin. In later life he lived in St. Petersburg. I know nothing more.
 
-**f. Yaakov (Yankele) Pesach** b.~1925, killed in action, aet. 17 years in 1943.
+**f. Yaakov (Yankele) Pesach** b. ~1925, killed in action, aet. 17 years in 1943.
 
 In 1928, my grandfather Morris Hoffman nominated Frida and Leib and their six children for immigration to Australia (Australian National Archives, item 8183056). This did not eventuate. This was in the time of the antisemitic repressive USSR.
 
-### 3. Tobl (~1890 – 1958)
+### 3. Tobl (~1890–1958)
 
-Our grandmother. In 1909 she married Moshe Hochman of Savran. They went to Perth in 1910.
+Our grandmother. She married Moshe Hochman of Savran in 1909. They went to Perth in 1910.
 
 Their six children were:
 
-- **Aaron (Harry)** 6.1.1912 - 1973
-- **Beile** 1915-1917
-- **Hymen Juda** 28.4.1918 – 17.7.2007, married Edith Spielmann 1918-2008.
-- **Wolfe** b. 1920 d. 2001.
-- **Elke (Alyce)** b. 6.4.1923 d.2.3.2013
-- **Yaakov (Jack)** b. 18.5.1927 d. 4.7.2019 in Perth.
+- **Aaron (Harry)** 6.1.1912–1973
+- **Beile** 1915–1917
+- **Hymen Juda** 28.4.1918–17.7.2007, married Edith Spielmann 1918–2008.
+- **Wolfe** 1920–2001
+- **Elke (Alyce)** 6.4.1923–2.3.2013
+- **Yaakov (Jack)** 18.5.1927–4.7.2019 in Perth.
 
 ### 4. Pesia (Batya)
 
-Born 28.4.1893 in Bershad, died 30.7.1959 in Perth. In 1916 married Pinya Swartz b. 10.6.1889 in Russia, d. 3.7.1932 in Perth. He was a Pinchas, and both Philip Dzienciol and I (Peter Hoffman) were named for him. His father was Moshe, whose sobriquet was "Moishe der lange" i.e. the tall. His mother was Leika (Leah).
+Born 28.4.1893 in Bershad, died 30.7.1959 in Perth. In 1916 married Pinya Swartz b. 10.6.1889 in Russia, died 3.7.1932 in Perth. He was a Pinchas, and both Philip Dzienciol and I (Peter Hoffman) were named for him. His father was Moshe, whose sobriquet was "Moishe der lange" i.e. the tall. His mother was Leika (Leah).
 
 Their children were:
 
-- **Olga Elka** 25.4.1918 - 3.12.1995, who married Sydney Breckler.
-- **Leah Leika** 27.3.1920 – 23.7.2000, who married Morry Dzienciol.
-* **Rachel** b. 26.7.1922. Rachel married Jan.
-- **May Manya** b. 18.12.1924, who married Ray Adam.
-- **Morris Moshe** b. 26.9.1926 in Perth. He married Mollie.
-- **Harry Aaron** 21.12.1930 – 22.6.1994. b. & d. in Perth.
+- **Olga Elka** 25.4.1918–3.12.1995, who married Sydney Breckler.
+- **Leah Leika** 27.3.1920–23.7.2000, who married Morry Dzienciol.
+- **Rachel** 26.7.1922, married Jan.
+- **May Manya** 18.12.1924, who married Ray Adam.
+- **Morris Moshe** 26.9.1926 in Perth. He married Mollie.
+- **Harry Aaron** 21.12.1930–22.6.1994. Born & died in Perth.
 
 On the 10.10.1925 on the vessel Ville de Verdun (Messageries Maritimes), Pesia and Pinya and the four eldest children arrived at Fremantle.
 
-### 5. Mariam (1907-3.9.1972)
+### 5. Mariam (1907–1972)
 
-Married Motti Millman in Russia. Motti died in a tram accident in Odessa.
+Married Motti Millman in Russia. Motti died in a tram accident in Odessa. Mariam died on 3.9.1972.
 
 Their two daughters were:
 
@@ -84,7 +84,7 @@ Their two daughters were:
   - They had three children: Myron, Jenny and Paul who live in the USA.
 
 - **Elka** b. 1932 in Russia.
-  - She married Michael Kemeny. They lived in Nedlands and owned and managed a general store. Elka passed away in ####.
+  - She married Michael Kemeny. They lived in Nedlands and owned and managed a general store. Elka passed away (year unknown).
   - Michael passed away in 2024 at the age of 98.
 
 Mariam and the girls came to Perth ~1932. She married again, to Moshe Greenberg in 1932. Morris was aged 25. Both are deceased.
@@ -112,31 +112,31 @@ Yoel and Gittel had four sons and two daughters:
 - Batya
 - Chaiya
 
-Shaike b. ~ 1883, d. ~ 1932, a furrier, married Raizel Fabrikant of Bershad. Shaike's son was Luser (Eliezer) b. 1921 in Bershad. He married Ruchel Rya who came with him to Sydney. Luser, the pater familias, was Philip's informant.
+Shaike b. ~1883, died ~1932, a furrier, married Raizel Fabrikant of Bershad. Shaike's son was Luser (Eliezer) b. 1921 in Bershad. He married Ruchel Rya who came with him to Sydney. Luser, the pater familias, was Philip's informant.
 
 Luser's sibs were:
 
 - Mottl b. 1910, killed in the Second World War.
-- Yoel d. ~1987 in Kharkov.
-- Soybel (a daughter). dec.
+- Yoel died ~1987 in Kharkov.
+- Soybel (a daughter), deceased.
 - Shaike, a son lived in Philadelphia, USA.
 - Ruchel, lived in Philadelphia, USA.
-- and Esther. d. ~1991
+- and Esther, died ~1991
 
 Luser married Rachel. Their son Mark (Marik) b. 1953 in Kharkov, married Ella. They live in Sydney. Their children are Allanah and Deborah (Debbie). 
 
-Their daughter Inna b. 1958 in Kharkov, an accountant, married Adolf (Eddy) Krimotat. They have has two children: Michael b. 1981 in Sydney and Jonathan b. 1983 in Sydney.
+Their daughter Inna b. 1958 in Kharkov, an accountant, married Adolf (Eddy) Krimotat. They had two children: Michael b. 1981 in Sydney and Jonathan b. 1983 in Sydney.
 
-**Allanah Zitserman** ([Wikipedia](https://en.wikipedia.org/wiki/Allanah_Zitserman)) arrived in Australia in 1980 with her family, as a Russian refugee. Allanah married Stavros Kazantzidis, her collaborator. They live in Dungog NSW. Their elder daughter, Mila, b. ~ 2011. Their younger, Lula Ophelia, b. 7.3.2013.
+**Allanah Zitserman** ([Wikipedia](https://en.wikipedia.org/wiki/Allanah_Zitserman)) arrived in Australia in 1980 with her family, as a Russian refugee. Allanah married Stavros Kazantzidis, her collaborator. They live in Dungog NSW. Their elder daughter, Mila, b. ~2011. Their younger, Lula Ophelia, b. 7.3.2013.
 
 ---
 
 ## Other Zitsermans from Bershad
 
-**Note:** We have no proof of kinship with us.
+**Note:** We have no proof of kinship with them.
 
 **Tatiana Zitserman** b. in Bershad. Chess master. Now lives in Minnesota. Was a member of the US national team.
 
-**Boris Mikhailovich Ziсerman** b. 1960 in Bershad. Also known as [Efim Alexandrov - Wikipedia](https://en.wikipedia.org/wiki/Efim_Alexandrov). Efim Alexandrov Russian artist of "spoken word" genre (stand-up comedian) and well known ... Lubov Efimovna and **Boris Mikhailovich Ziсerman** were born in the township of Bershad. [www.languagesoftheworld.info/.../re-branding-soviet-jewish-nostalgia-jewis](http://www.languagesoftheworld.info/.../re-branding-soviet-jewish-nostalgia-jewis)...
+**Boris Mikhailovich Ziсerman** b. 1960 in Bershad. Also known as [Efim Alexandrov](https://en.wikipedia.org/wiki/Efim_Alexandrov). Efim Alexandrov is a Russian artist of "spoken word" genre (stand-up comedian) and well known ... Lubov Efimovna and **Boris Mikhailovich Ziсerman** were born in the township of Bershad. [www.languagesoftheworld.info/.../re-branding-soviet-jewish-nostalgia-jewis](http://www.languagesoftheworld.info/.../re-branding-soviet-jewish-nostalgia-jewis)...
 
 ---
