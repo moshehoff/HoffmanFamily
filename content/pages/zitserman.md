@@ -189,8 +189,6 @@ Luser (Eliezer) & Rachel
 │   ├─ Allanah
 │   └─ Deborah (Debbie)
 └─ Inna (b. 1958) m. Adolf (Eddy) Krimotat
-    ├─ Michael (b. 1981)
-    └─ Jonathan (b. 1983)
 ```
 
 **Allanah Zitserman** ([Wikipedia](https://en.wikipedia.org/wiki/Allanah_Zitserman)) arrived in Australia in 1980 with her family, as a Russian refugee. 
