@@ -65,7 +65,7 @@ Frida & Mocha Pesach
 
 **[Bronya Bracha|I34845671740]** b. ~1918 in Olgopol. Came out from Odessa as an old lady to Israel and died there. Bronya m. [Michael Solgan|I34845671760], b. in Olgopol. Michael was a captain (4 pips) in the Red Army. He fell in 1942 (before the battle of Stalingrad). Their son [Yefim (Fima)|I34845671794] was born in 1938. He was a civil engineer whose interest was in hydraulics. He left Odessa and came to Israel. 
 
-** [Arkadi Aaron Pesach|I34845671910]** b. ~1917. He was a colonel (polkovnik) in the Red Army who fought as far as Berlin. In later life he lived in St. Petersburg. I know nothing more.
+**[Arkadi Aaron Pesach|I34845671910]** b. ~1917. He was a colonel (polkovnik) in the Red Army who fought as far as Berlin. In later life he lived in St. Petersburg. I know nothing more.
 
 **[Yaakov (Yankele) Pesach|I34845671953]** b. ~1925, killed in action, aet. 17 years in 1943.
 
@@ -86,7 +86,6 @@ Tobl & Moshe Hochman
 ├─ Aaron (Harry) (6.1.1912–1973)
 ├─ Beile (1915–1917)
 ├─ Hymen Juda (28.4.1918–17.7.2007)
-│   └─ m. Edith Spielmann (1918–2008)
 ├─ Wolfe (1920–2001)
 ├─ Elke (Alyce) (6.4.1923–2.3.2013)
 └─ Yaakov (Jack) (18.5.1927–4.7.2019)
@@ -102,16 +101,11 @@ Their children were:
 ```
 Pesia & Pinya Swartz
 │
-├─ Olga Elka (25.4.1918–3.12.1995)
-│   └─ m. Sydney Breckler
-├─ Leah Leika (27.3.1920–23.7.2000)
-│   └─ m. Morry Dzienciol
-├─ Rachel (26.7.1922)
-│   └─ m. Jan
-├─ May Manya (18.12.1924)
-│   └─ m. Ray Adam
-├─ Morris Moshe (26.9.1926)
-│   └─ m. Mollie
+├─ Olga Elka (25.4.1918–3.12.1995) m. Sydney Breckler
+├─ Leah Leika (27.3.1920–23.7.2000) m. Morry Dzienciol
+├─ Rachel (26.7.1922) m. Jan
+├─ May Manya (18.12.1924) m. Ray Adam
+├─ Morris Moshe (26.9.1926) m. Mollie
 └─ Harry Aaron (21.12.1930–22.6.1994 Born & died in Perth.)
 ```
 
@@ -123,18 +117,13 @@ Their two daughters were:
 ```
 Mariam & Motti Millman
 │
-├─ Sarah (Sally) (b. 1926)
-│   └─ m. Max Crain
-│       ├─ Myron
-│       ├─ Jenny
-│       └─ Paul
-└─ Elka (b. 1932)
-    └─ m. Michael Kemeny
+├─ Sarah (Sally) (b. 1926) m. Max Crain│ 
+└─ Elka (b. 1932) m. Michael Kemeny
 ```
 
 Mariam arrived with her two daughters, Sarah and Elka to Perth Australia in 1932. She married again in 1932, to [Moshe Greenberg|I34711366387], who was aged 25..
 
-**[Sarah (Sally)|I10036380293]** b. 1926 in Russia. She married Max Crain. They had three children: Myron, Jenny and Paul who live in the USA.
+**[Sarah (Sally)|I10036380293]** b. 1926 in Russia. She married Max Crain. They had three who live in the USA.
 
 **[Elka|I10036731293]** b. 1932 in Russia. She married Michael Kemeny. They lived in Nedlands and owned and managed a general store. Elka passed away (year unknown). Michael passed away in 2024 at the age of 98.
 
