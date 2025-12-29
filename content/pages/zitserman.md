@@ -8,7 +8,7 @@ This uncommon Jewish family name was my grandmother's maiden name. I have not fo
 
 **Bershad** (ברשד) was a small town in the Podolia Governate of the Russian Empire, located in what is now the Vinnytsia Oblast, Ukraine. Like many shtetls in the Pale of Settlement, Bershad had a substantial Jewish community that formed the backbone of the town's commercial and cultural life.
 
-![[Bershad-synagogue-exterior-2006.jpg]]
+![[bershad_synagogue.jpg]]
 
 The Zitserman family was part of this community, with **[Aaron Zitserman|I38736034]** described on his daughters' death certificates as a business proprietor—a common occupation for Jews in the region, who were generally barred by law from owning agricultural land.
 
@@ -36,7 +36,10 @@ Aaron & Elka Zitserman (Bershad)
 └─ 6. Yaakov (Yankele) (~1880s–1913–1916)
 ```
 
-Their six children were born in Bershad.
+![[Elka and her 3 children.jpg]]
+**_[Elka|I34711365018] and her three daughters: [Pesya|I10033320293], [Frida|I10032573293] and [Mariam|I34711365931]._**
+
+Their six children were born in Bershad:
 #### 1. [Arkadia|I10032069293]
 Arkadia remained in Russia. She was married to a Zitserman (sic) and had a daughter named Galya. We have no more details of this family.
 #### 2. [Frida|I10032573293] (~1887–1955)
@@ -73,6 +76,8 @@ In 1928, my grandfather Morris Hoffman nominated Frida and Leib and their six ch
 
 #### 3. [Tobl|I38735986] (~1890–1958)
 Our grandmother. She married [Moshe Hochman|I11052340] of Savran in 1909.
+![[tobl.jpg]]
+**_[Moshe|I11052340] and [Tobl|I38735986] with [Harry|I38736184], [Hymie|I11052350] and [Wolfe|I7293825]_**
 
 Tobl arrived with Moshe and his nephew [Wolfe|I38740219]. They settled in Perth, where Moshe became a successful fruiterer and businessman.
 
@@ -120,6 +125,8 @@ Mariam & Motti Millman
 ├─ Sarah (Sally) (b. 1926) m. Max Crain│ 
 └─ Elka (b. 1932) m. Michael Kemeny
 ```
+
+![[Moishe and Mariam, Sally (standing) anf Elka.jpg]]**_[Moshe|I34711366387] and [Mariam|I34711365931], [Sally|I10036380293] (standing) and [Elka|I10036731293]_**
 
 Mariam arrived with her two daughters, Sarah and Elka to Perth Australia in 1932. She married again in 1932, to [Moshe Greenberg|I34711366387], who was aged 25..
 

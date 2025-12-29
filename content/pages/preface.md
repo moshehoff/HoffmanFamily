@@ -1,7 +1,6 @@
 ---
 title: Preface
 ---
-
 ### Preface by [Peter Hoffman|I11052359]
 
 As a child I had no greater interest in family history and genealogy than others of my age, however, I listened to my parents' conversations, and without effort learned - and apparently faithfully memorised - little by little, a mass of data. Both my parents were in touch with and/or visited a large number of relatives both in Australia and overseas, and quite a few used to drop in at all hours to while away their time. So I overheard quite a lot. My grandfather [Morrie Hoffman|I11052340] told us a few stories, but to my everlasting regret I never interrogated him with intent. In my teens I saw a genealogy of the Hoffman family which my father prepared for a relative in Melbourne, another Hymie Hoffman. A few years later I came across a brief outline of my grandmother Theresia's ancestors, which she had written in the 1950's. It so interested me that I copied it, and fortunately I kept my copy, because the original has been lost. It is clear that my interest to know more about my family was already kindled.
