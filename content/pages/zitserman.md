@@ -9,6 +9,7 @@ This uncommon Jewish family name was my grandmother's maiden name. I have not fo
 **Bershad** (ברשד) was a small town in the Podolia Governate of the Russian Empire, located in what is now the Vinnytsia Oblast, Ukraine. Like many shtetls in the Pale of Settlement, Bershad had a substantial Jewish community that formed the backbone of the town's commercial and cultural life.
 
 ![[bershad_synagogue.jpg]]
+**_The interior of the Bershad's old synagogue_**
 
 The Zitserman family was part of this community, with **[Aaron Zitserman|I38736034]** described on his daughters' death certificates as a business proprietor—a common occupation for Jews in the region, who were generally barred by law from owning agricultural land.
 
@@ -177,24 +178,15 @@ Yoel (Yankele) & Gittel
 
 **Shaike** b. ~1883, died ~1932, a furrier, married Raizel Fabrikant of Bershad. Shaike's son was Luser (Eliezer) b. 1921 in Bershad. He married Ruchel Rya who came with him to Sydney. Luser, the pater familias, was Philip's informant.
 
-Luser married Rachel. Their son Mark (Marik) b. 1953 in Kharkov, married Ella. They live in Sydney. Their children are Allanah and Deborah (Debbie). 
-```
-Luser (Eliezer) & Rachel
-│
-├─ Mark (Marik) (b. 1953) m. Ella
-│   ├─ Allanah
-│   └─ Deborah (Debbie)
-└─ Inna (b. 1958) m. Adolf (Eddy) Krimotat
-```
-
-**Allanah Zitserman** ([Wikipedia](https://en.wikipedia.org/wiki/Allanah_Zitserman)) arrived in Australia in 1980 with her family, as a Russian refugee. 
 
 ## Other Zitsermans from Bershad
 
-**Note:** We have no proof of kinship with them.
+**Allanah Zitserman** ([Wikipedia](https://en.wikipedia.org/wiki/Allanah_Zitserman)) of our Sydney branch, arrived in Australia in 1980 with her family. 
 
 **Tatiana Zitserman** b. in Bershad. Chess master. Now lives in Minnesota. Was a member of the US national team.
+**Note:** We have no proof of kinship with her
 
 **Boris Mikhailovich Ziсerman** b. 1960 in Bershad. Also known as [Efim Alexandrov](https://en.wikipedia.org/wiki/Efim_Alexandrov). Efim Alexandrov is a Russian artist of "spoken word" genre (stand-up comedian) and well known ... Lubov Efimovna and **Boris Mikhailovich Ziсerman** were born in the township of Bershad. [www.languagesoftheworld.info/.../re-branding-soviet-jewish-nostalgia-jewis](http://www.languagesoftheworld.info/.../re-branding-soviet-jewish-nostalgia-jewis)...
+**Note:** We have no proof of kinship with him.
 
 ---

@@ -1,0 +1,1 @@
+[Hymie|I11052350] (sitting, first from the right) as medical undergraduate 1941
