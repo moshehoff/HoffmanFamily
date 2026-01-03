@@ -31,6 +31,7 @@ your elders, and they will explain to you."
 * [All Hochmans' profiles](pages/family-hochman) 
 
 #### The Zitsermans
+The Zitsermans and the Hoffmans are connected by the marriage of [Tobl Titserman|I38735986] and [Moshe Hochman|I11052340].
 * [Zitserman Family Opus](zitserman.md)
 * [All Zitsermans' Images](pages/family-zitserman-images)
 * [All Zitsermans' Profiles](pages/family-zitserman)
