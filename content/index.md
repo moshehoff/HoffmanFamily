@@ -24,16 +24,16 @@ your elders, and they will explain to you."
  [About](pages/about) - About this website
 
 #### The Hoffmans
-* [The Russian Period](/pages/founders) - The Founders’ Generation
-* [The Australian Period](pages/hoffman_history)  - The Story of the Hoffman Family in Australia
-* [Are you sure the name is Hoffman and not Hochman?](pages/the_names) 
+* [The Russian Period](/pages/hoffmans/founders/founders.md) - The Founders’ Generation
+* [The Australian Period](/pages/hoffmans/hoffman_history.md)  - The Story of the Hoffman Family in Australia
+* [Are you sure the name is Hoffman and not Hochman?](/pages/hoffmans/the_names.md) 
 * [All Hoffmans' Images](pages/family-hochman-images)
 * [All Hochmans' profiles](pages/family-hochman) 
 
 #### The Zitsermans
 The Zitsermans and the Hoffmans are connected by the marriage of [Tobl Titserman|I38735986] and [Moshe Hochman|I11052340].
-* [Zitserman Family Opus](zitserman.md)
-* [All Zitsermans' Images](pages/family-zitserman-images)
+* [Zitserman Family Opus](/pages/zitsermans/zitserman.md)
+* [All Zitsermans' Images](/pages/family-zitserman-images)
 * [All Zitsermans' Profiles](pages/family-zitserman)
 
 #### General pages
