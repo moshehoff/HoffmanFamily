@@ -940,6 +940,16 @@
         "path": "/static/documents/I11052350/Our family from Ilse_0005.jpg"
       },
       {
+        "filename": "Our family from Ilse_0001.jpg",
+        "caption": "<a href=\"/profiles/Edith-%D7%A6%D7%99%D7%A8%D7%9C-Hoffman-Spielmann\">Edith</a>, Denis 21 months old 18.12.1946, Perth",
+        "people": [
+          "I38516664",
+          "I38516763"
+        ],
+        "owner": "I38516763",
+        "path": "/static/documents/I38516763/Our family from Ilse_0001.jpg"
+      },
+      {
         "filename": "Denis-bar-mitsva-Jan-1957.jpg",
         "caption": "Denis bar mitsva Jan 1957. <a href=\"/profiles/Moshe-%D7%9E%D7%A9%D7%94-Hoffman-Hochman\">Morrie</a> <a href=\"/profiles/Tobl-Hochman-%28Hoffman%29-Zitserman\">Tobl</a> <a href=\"/profiles/Hyman-Judah-Hoffman\">Hymie</a> and Peter, Denis,  <a href=\"/profiles/Edith-%D7%A6%D7%99%D7%A8%D7%9C-Hoffman-Spielmann\">Edith</a> and her mother Theresia Spielmann",
         "people": [
@@ -1455,8 +1465,9 @@
     "I38516763": [
       {
         "filename": "Our family from Ilse_0001.jpg",
-        "caption": "Denis 21 months old 18.12.1946, Perth",
+        "caption": "<a href=\"/profiles/Edith-%D7%A6%D7%99%D7%A8%D7%9C-Hoffman-Spielmann\">Edith</a>, Denis 21 months old 18.12.1946, Perth",
         "people": [
+          "I38516664",
           "I38516763"
         ],
         "owner": "I38516763",
@@ -1888,6 +1899,26 @@
         ],
         "owner": "I39965497",
         "path": "/static/documents/I39965497/Hershl-and-Rochel-with-children_-and-Hillel-Moldavsky.jpg"
+      },
+      {
+        "filename": "Rochel & Hesh_l .jpg",
+        "caption": "<a href=\"/profiles/Hershl-Hochman\">Hershl</a> and <a href=\"/profiles/Ruchel-Hoffman-Gillik\">Rochel</a>",
+        "people": [
+          "I39965497",
+          "I40778657"
+        ],
+        "owner": "I39965497",
+        "path": "/static/documents/I39965497/Rochel & Hesh_l .jpg"
+      },
+      {
+        "filename": "Rochele & Hesh_l .jpg",
+        "caption": "<a href=\"/profiles/Hershl-Hochman\">Hershl</a> and <a href=\"/profiles/Ruchel-Hoffman-Gillik\">Rochel</a>",
+        "people": [
+          "I39965497",
+          "I40778657"
+        ],
+        "owner": "I39965497",
+        "path": "/static/documents/I39965497/Rochele & Hesh_l .jpg"
       }
     ],
     "I40778709": [
@@ -1917,6 +1948,16 @@
         ],
         "owner": "I39965497",
         "path": "/static/documents/I39965497/Hershl-and-Rochel-with-children_-and-Hillel-Moldavsky.jpg"
+      },
+      {
+        "filename": "Bruce & Olga Hoffman 9.7.1941.jpg",
+        "caption": "<a href=\"/profiles/Bruce-Boruch-Hoffman\">Bruce</a> & <a href=\"/profiles/Olga-Hoffman-Quatt\">Olga Hoffman</a> 9.7.1941",
+        "people": [
+          "I40778709",
+          "I40779192"
+        ],
+        "owner": "I40778709",
+        "path": "/static/documents/I40778709/Bruce & Olga Hoffman 9.7.1941.jpg"
       }
     ],
     "I40778657": [
@@ -1936,6 +1977,26 @@
         ],
         "owner": "I39965497",
         "path": "/static/documents/I39965497/Hershl-and-Rochel-with-children_-and-Hillel-Moldavsky.jpg"
+      },
+      {
+        "filename": "Rochel & Hesh_l .jpg",
+        "caption": "<a href=\"/profiles/Hershl-Hochman\">Hershl</a> and <a href=\"/profiles/Ruchel-Hoffman-Gillik\">Rochel</a>",
+        "people": [
+          "I39965497",
+          "I40778657"
+        ],
+        "owner": "I39965497",
+        "path": "/static/documents/I39965497/Rochel & Hesh_l .jpg"
+      },
+      {
+        "filename": "Rochele & Hesh_l .jpg",
+        "caption": "<a href=\"/profiles/Hershl-Hochman\">Hershl</a> and <a href=\"/profiles/Ruchel-Hoffman-Gillik\">Rochel</a>",
+        "people": [
+          "I39965497",
+          "I40778657"
+        ],
+        "owner": "I39965497",
+        "path": "/static/documents/I39965497/Rochele & Hesh_l .jpg"
       }
     ],
     "I40778886": [
@@ -2050,6 +2111,18 @@
         ],
         "owner": "I39965497",
         "path": "/static/documents/I39965497/Hershl-and-Rochel-with-children_-and-Hillel-Moldavsky.jpg"
+      }
+    ],
+    "I40779192": [
+      {
+        "filename": "Bruce & Olga Hoffman 9.7.1941.jpg",
+        "caption": "<a href=\"/profiles/Bruce-Boruch-Hoffman\">Bruce</a> & <a href=\"/profiles/Olga-Hoffman-Quatt\">Olga Hoffman</a> 9.7.1941",
+        "people": [
+          "I40778709",
+          "I40779192"
+        ],
+        "owner": "I40778709",
+        "path": "/static/documents/I40778709/Bruce & Olga Hoffman 9.7.1941.jpg"
       }
     ],
     "I6458385293": [

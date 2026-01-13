@@ -121,13 +121,6 @@
     {
       "profileId": "I11032861",
       "profileSlug": "Haim-Yehuda-חיים-יהודה-Hochman",
-      "chapterSlug": "02-arrival-of-hyam-yudl",
-      "chapterTitle": "Arrival of Hyam Yudl Hochman in Australia (1901-1904)",
-      "profileName": "Haim Yehuda חיים יהודה /Hochman/"
-    },
-    {
-      "profileId": "I11032861",
-      "profileSlug": "Haim-Yehuda-חיים-יהודה-Hochman",
       "chapterSlug": "07-arrival-of-moishe-wolfe",
       "chapterTitle": "Arrival of Moishe & Wolfe Hochman (1910)",
       "profileName": "Haim Yehuda חיים יהודה /Hochman/"
@@ -159,6 +152,15 @@
       "chapterSlug": "05-scharnhost-passangers",
       "chapterTitle": "The Scharnhorst Passengers",
       "profileName": "Moshe משה /Hoffman/ /Hochman/"
+    }
+  ],
+  "I11029840": [
+    {
+      "profileId": "I11032861",
+      "profileSlug": "Haim-Yehuda-חיים-יהודה-Hochman",
+      "chapterSlug": "02-arrival-of-hyam-yudl",
+      "chapterTitle": "Arrival of Hyam Yudl Hochman in Australia (1901-1904)",
+      "profileName": "Haim Yehuda חיים יהודה /Hochman/"
     }
   ],
   "I11029872": [
