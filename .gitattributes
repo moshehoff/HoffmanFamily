@@ -1,0 +1,14 @@
+# Keep line endings consistent (LF) so Windows/Git do not mark files as modified
+# only because of CRLF vs LF.
+* text=auto eol=lf
+
+# Binary assets — do not convert line endings
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.woff binary
+*.woff2 binary

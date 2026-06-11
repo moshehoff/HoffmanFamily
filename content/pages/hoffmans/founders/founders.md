@@ -132,7 +132,7 @@ Hershl worked at **Eilbeck's Engineering Works** in West Perth for **46 years**,
 
 *[Read Hershl's full biography →](/profiles/Hershl-Hochman#tab=biography)*
 
-[Wolfe Hoffman|I38740219]** (b. 1 November 1891 in Khoshchevato, Podolia)
+[Wolfe Hoffman|I38740219] (b. 1 November 1891 in Khoshchevato, Podolia)
 Wolfe was the son of [Josef Hochman|I38740193]. He left Russia together with his uncle [Moshe|I11052340] when he was 17 years old.
 
 **→ Australia: 25 April 1910** (Fremantle, aboard the *Scharnhorst*)  

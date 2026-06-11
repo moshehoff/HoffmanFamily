@@ -2,13 +2,21 @@
 
 Hyam had intended that his brother [Morris|I11052340] take over the wine shop. Morris had to obtain a wine licence, so in the interim [Berl|I39965449] was temporary licensee. The two were in some sort of partnership from February 1914 until March 1915. Sarah Hoffman, Hyam's widow had in some manner become the holder of the Australian Wine Licence.
 
-[SARAH HOFFMAN|I39967468], of Wellington street, Perth, being the Licensee of the premises known as The Westralia Fruit Palace, at No. 411 Wellington-street, Perth, do hereby make APPLICATION for a TRANSFER of the Rights and Privileges of the Australian Wine Licence held by me in respect of the said premises, to [BORIS HOFFMAN|I39965449], of Wellington-street, Perth, and , the said Boris Hoffman do hereby concur in such application, and request that the said transfer may be made. Dated this 24th day of February, 1914.
+<div class="citation-box">
+[SARAH HOFFMAN|I39967468], of Wellington street, Perth, being the Licensee of the premises known as The Westralia Fruit Palace, at No. 411 Wellington-street, Perth, do hereby make APPLICATION for a TRANSFER of the Rights and Privileges of the Australian Wine Licence held by me in respect of the said premises, to [BORIS HOFFMAN|I39965449], of Wellington-street, Perth, and , the said Boris Hoffman do hereby concur in such application, and request that the said transfer may be made. 
+</div>
+Dated this **24th day of February, 1914.**
 
-NOTICE is hereby given that the PARTNERSHIP hitherto existing between MORRIS HOFFMAN and BORIS HOFFMAN. carrying on business at 411 Welling ton-st.. Perth, under the name, style., or firm of "Hoffman and Co.," has been DISSOLVED by mutual consent as from the date hereof the said Morris Hoffman will take over the whole of the assets and pay the liabilities of the late Firm.
+<div class="citation-box">
+NOTICE is hereby given that the PARTNERSHIP hitherto existing between MORRIS HOFFMAN and BORIS HOFFMAN. carrying on business at 411 Wellington-st. Perth, under the name, style., or firm of "Hoffman and Co.," has been DISSOLVED by mutual consent as from the date hereof the said Morris Hoffman will take over the whole of the assets and pay the liabilities of the late Firm.
+</div>
+Dated this **8th day of March, 1915.**
 
-Dated this 8th day of March, 1915.
-
-BORIS HOFFMAN. of Perth, being the licensee of the premises known as The Westralia Fruit Palace, at 411 Wellington street, Perth. do hereby make APPLICATION for a TRANSFER of the rights and priviliges of the Australian Wine Licence held by me in respect of the said premises to MORRIS HOFFMAN, of 411 Wellington street, Perth, Fruiterer, and I, the said Morris Hoffman do hereby concur in such application, and request that the said transfer may be made. Dated this 8th day of March, 1915.
+<div class="citation-box">
+BORIS HOFFMAN. of Perth, being the licensee of the premises known as The Westralia Fruit Palace, at 411 Wellington street, Perth. do hereby make APPLICATION for a TRANSFER of the rights and priviliges of the Australian Wine Licence held by me in respect of the said premises to MORRIS HOFFMAN, of 411 Wellington street, Perth, Fruiterer, and I, the said Morris Hoffman do hereby concur in such application, and request that the said transfer may be made. 
+</div>
+</div>
+Dated this **8th day of March, 1915**.
 
 All three of the above matters were handled for the family by Morris Crawcour. solicitor, at the National Mutual Buildings, St George's Terrace.
 
@@ -52,23 +60,15 @@ According to [Louise Hoffman|I38739935], the shop front displayed the words "Bor
 
 From the same period, Louise Hoffman told me this story:
 
-A policeman found Morris and some soldiers sitting behind the wine saloon imbibing alcohol. Morris was charged with an after-hours offence. His defence was that they were drinking lemonade. The magistrate knew that no self respecting soldier would touch the stuff, and he himself didn't swallow the story.
+A policeman found Morris and some soldiers sitting behind the wine saloon imbibing alcohol. Morris was charged with an after-hours offence. His defence was that they were drinking lemonade. The magistrate knew that no self respecting soldier would touch the stuff, and he himself didn't swallow the story...
 
----
+on 1916, [Israel Hoffman|I39114550] married [Rachel Zelzer|I100527944] (our auntie Rae, later in Cottesloe). Rachel's parents were Emil and Gittel. Their marriage was celebrated by the reverent Lechovski, and the other witness was Morris Ferstat.
 
-on #### 1916, [Israel Hoffman|I39114550] married [Rachel Zelzer|I100527944] (our auntie Rae, later in Cottesloe). Rachel's parents were Emil and Gittel. Their marriage was celebrated by the reverent Lechovski, and the other witness was Morris Ferstat.
+Their first child, Bertha Evelyn was born on 1917.
 
-Their first child, Bertha Evelyn was born on #### 1917.
-
-This section is unfinished.
-
----
-
-Arrival of Rivka Sisselman
+### Arrival of Rivka Sisselman
 
 [Rivka|I40775621] was sent from Palestine to be [Berl|I39965449]'s bride. Mrs Swartz made the wedding frock and the couple were duly married in 1908 in the Perth Synagogue. Berl and Rivka then returned to Wickepin. In 1909 their first child Mina was born there. In 1910 the family left the Wickepin farm and returned to Perth. On his return to Perth, Berl immediately started work at Gallop Gardens on the Swan River foreshore in Nedlands. The family resided on the property.
-
----
 
 ### Continue Reading
 

@@ -24,25 +24,23 @@ A case of interest to trades unionists was heard before Mr. A. S. Roe, P.M., in 
 
 The E. Grigg of Wellington St. appears to be an error. George E. Grigg was a coachmaker at 411 Murray St., across the road from Sanders'.
 
-Morris worked for Mr. Sanders, at 429 Murray St.( on the south side of Murray St., a few little before the Milligan St. corner) for eighteen months and then for Mr. Beard, livery stables proprietor of Beaufort St. This appears to be Albert Beard, at 185 Beaufort St., opposite what would later be Birdwood Park.
+Morris worked for Mr. Sanders, at 429 Murray St. (on the south side of Murray St., a few little before the Milligan St. corner) for eighteen months and then for Mr. Beard, livery stables proprietor of Beaufort St. This appears to be Albert Beard, at 185 Beaufort St., opposite what would later be Birdwood Park.
 
-On 12. 1 .1912 their first child, Aaron (Harry), named after a grandfather, was born in an upstairs bedroom at the Esplanade Hotel, on the corner of Marine Tce. and Collie St. in Fremantle.
+On **12.1.1912** their first child, Aaron (Harry), named after a grandfather, was born in an upstairs bedroom at the Esplanade Hotel, on the corner of Marine Tce. and Collie St. in Fremantle.
 
 [Morris|I11052340] was naturalized on 1.7.1912, when he took the Oath before magistrate Augustus Sanford Roe.
-
----
 
 [Wolfe|I38740219] was listed on the Scharnhorst's manifest as a labourer. His first known job was as a mill hand, from about February 1912 at Hoffman Mill in Jarrahdale. The original mill has been preserved and Hoffman Mill may be visited as a heritage site. In 1914 he was working at the Jarrahdale Mill.
 
 His employment during his first two years in Western Australia is not known.
 
-On 1.7.1912, together with Morris, he took the Oath of Citizenship.
+On **1.7.1912**, together with Morris, he took the Oath of Citizenship.
 
-On 20.3.1915 he enlisted in the AIF, and did his basic training at Blackboy Hill. He departed for Alexandria on the troopship Wandilla on 25.6.1915.
+On **20.3.1915** he enlisted in the AIF, and did his basic training at Blackboy Hill. He departed for Alexandria on the troopship Wandilla on **25.6.1915**.
 
-Wolfe's army service is recounted in a separate chapter.
+Wolfe's army service is recounted in his [biograpy](/profiles/Wolfe-Hochman#chapter=introduction&tab=biography)
 
----
+
 
 ### Continue Reading
 

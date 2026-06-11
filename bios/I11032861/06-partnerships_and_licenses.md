@@ -10,29 +10,22 @@ Hyam was then living at 229 William St., on the west side of that street just a 
 
 The Licencing Court records list the following applications:
 
-1.2.1909 Morris Ferstat married, fruiterer and confectioner, residing at 428 William St. - shop and three rooms, applies for an AWL for WA wine, at 428 Wm.St. He has had a ColWL for over 12 months.
+**1.2.1909** - Morris Ferstat married, fruiterer and confectioner, residing at 428 William St. - shop and three rooms, applies for an AWL for WA wine, at 428 Wm.St. He has had a ColWL for over 12 months.
 
-14.2.1909 Nahum Ferstat married, fruiterer, residing at 411 Wellington St. applies for an AWL for Victorian wine, at 763 Hay St. - shop and one room, and now licensed. He has had a ColWL for two months.
+**14.2.1909** - Nahum Ferstat married, fruiterer, residing at 411 Wellington St. applies for an AWL for Victorian wine, at 763 Hay St. - shop and one room, and now licensed. He has had a ColWL for two months.
 
-14.2.1909 Joseph Ferstat, single, fruiterer, residing at 411 Wm. St. applies for an AWL for WA wine, at 411 Wellington St. - a shop and two rooms.
+**14.2.1909** - Joseph Ferstat, single, fruiterer, residing at 411 Wm. St. applies for an AWL for WA wine, at 411 Wellington St. - a shop and two rooms.
 
-14.2.1909 Hyam Hoffman, married, fruiterer, residing at 229 Wm. St. applies for an AWL for WA wine at 507 Wellington St. - shop and two rooms. and now licensed. He has had a ColWL for about 18 months.
+**14.2.1909** - Hyam Hoffman, married, fruiterer, residing at 229 Wm. St. applies for an AWL for WA wine at 507 Wellington St. - shop and two rooms. and now licensed. He has had a ColWL for about 18 months.
 
-23.5.1909 Hyam Hoffman, married, fruiterer, residing at 411 Wellington St. applies for an AWL for wines of WA and SA at 411 Wellington St. - shop and saloon, held by me under transfer from Joseph Ferstat and licensed to sell WA wines (i.e: AWL) and known as the Australian Wine and Fruit Palace. Hyam has held a ColWL for 18 months.
+**23.5.1909** - Hyam Hoffman, married, fruiterer, residing at 411 Wellington St. applies for an AWL for wines of WA and SA at 411 Wellington St. - shop and saloon, held by me under transfer from Joseph Ferstat and licensed to sell WA wines (i.e: AWL) and known as the Australian Wine and Fruit Palace. Hyam has held a ColWL for 18 months.
 
 Hyam is applying to deal in South Australian (Barossa Valley) wines too! This licence wasn't held by many, and must have been the key to his subsequent fortune. His advertisements in the newspapers show that he was selling Hardy's by the case!
 
 The premises at 411 Wm. St. where the family would reside was "a shop and two rooms", so it was certainly crowded, as he must have had his considerable stock somewhere, but the situation – right opposite the railway station - was ideal for both import and sales, as "country orders receive special attention".
 
-[Photo description: Wellington Street, looking west from Barrack Street]
-
-view all results
-
-Minimise
-
-Wellington Street, looking west from Barrack Street
-
-Mitchell, E. L. (Ernest Lund), 1876-1959
+![[wellington st from the intersection at Barrack street.jpg]]
+**_Photo description: Wellington Street, looking west from Barrack Street_**
 
 [ Book : 1900 ]
 
